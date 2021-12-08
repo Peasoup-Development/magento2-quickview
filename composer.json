@@ -4,7 +4,7 @@
   "require": {
     "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0",
     "magento/module-catalog": "104.* |103.* |102.* |101.* | 100.*",
-    "scriptua/magento2-base": "^2.0"
+    "Hryvinskyi/magento2-base": "^2.0"
   },
   "type": "magento2-module",
   "version": "1.0.5",
